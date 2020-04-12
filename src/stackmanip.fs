@@ -22,9 +22,4 @@
 	
 	
 stackmanipassigtest
-a b over
-swap b a
-dup b a a
-rot a a b
-swap a b a
 
